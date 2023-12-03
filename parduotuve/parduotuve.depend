@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1685528280 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\main.cpp
+	"discount.hpp"
+	"item.hpp"
+	"basket.hpp"
+	"decorator.hpp"
+	"market.hpp"
+	"discountbyprice.hpp"
+	"fixeddiscount.hpp"
+	"relativediscount.hpp"
+	<vector>
+	<iostream>
+
+1685468392 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\decorator.cpp
+	"decorator.hpp"
+	"basket.hpp"
+
+1685468378 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\decorator.hpp
+	"discount.hpp"
+	<string>
+
+1685468010 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\discount.hpp
+	"basket.hpp"
+
+1685468623 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\basket.hpp
+	<vector>
+	"item.hpp"
+
+1685468623 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\item.hpp
+	<string>
+
+1685468010 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\discount.cpp
+	"discount.hpp"
+
+1685527070 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\discountbyprice.cpp
+	"discountbyprice.hpp"
+	"basket.hpp"
+	<stdexcept>
+
+1685468009 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\discountbyprice.hpp
+	"discount.hpp"
+
+1685468010 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\fixeddiscount.cpp
+	"fixeddiscount.hpp"
+	"basket.hpp"
+
+1685468009 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\fixeddiscount.hpp
+	"discount.hpp"
+
+1685468448 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\market.hpp
+	"discount.hpp"
+	"item.hpp"
+	"basket.hpp"
+	<vector>
+
+1685468009 c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\relativediscount.hpp
+	"discount.hpp"
+
+1685468448 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\market.cpp
+	"market.hpp"
+
+1685468010 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\relativediscount.cpp
+	"relativediscount.hpp"
+	"basket.hpp"
+
+1685468509 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\basket.cpp
+	"basket.hpp"
+	<iostream>
+
+1685468623 source:c:\users\desktop\desktop\vilnius university\1 kursas\2 semestras\c++ oop pratybos\14 savaite\parduotuve\item.cpp
+	"item.hpp"
+
